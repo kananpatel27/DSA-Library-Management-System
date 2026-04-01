@@ -35,10 +35,10 @@ Components :
 
 (1) Book Class :
 
-Book ID
-Book Name
-Author
-Availability Status
+- Book ID
+- Book Name
+- Author
+- Availability Status
 
 (2) Library Class : 
 
