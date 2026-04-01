@@ -31,20 +31,24 @@ The development of this system follows these steps:
    Improve features and fix bugs
 
 **System Design:**
-Components:
-(1) Book Class
+Components :
+
+(1) Book Class :
+
 Book ID
 Book Name
 Author
 Availability Status
 
-(2) Library Class
+(2) Library Class : 
+
 List of books
-Functions:
-Add Book
-Display Books
-Issue Book
-Return Book
+Functions :
+
+- Add Book
+- Display Books
+- Issue Book
+- Return Book
 
 Functional Flow:
 User → Menu → Select Operation → Perform Action → Display Result
